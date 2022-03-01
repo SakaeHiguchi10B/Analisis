@@ -8,8 +8,11 @@ console.log(nombre);
 var grado;//string
 console.log(grado);
 
+
 var edad;//int
-console.log(edad);//desde  teclado 
+console.log(edad);
+//desde  teclado 
+var edad=prompt("ingrese su grado");
 
 var grado="10B"
 var nombre= "Sakae Higuchi"
@@ -20,6 +23,7 @@ console.log("mensaje");
 console.log(grado);
 //concatenado
 console.log("El estudiante "+nombre+" del grado "+grado+" tiene "+edad)
+
 
 
 

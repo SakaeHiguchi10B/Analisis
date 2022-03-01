@@ -54,6 +54,18 @@ console.log(nombre);
 console.log("la edad es "+edad+" años");
 
 
+//operadores
+//suma 
+let a = 10;
+let b=20;
+var suma= a+b;
+console.log(suma);
+//resta
+var resultado;
+resultado= a-b;
+console.log(resultado);
+resultado=a-b;
+
 
 
 
