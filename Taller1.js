@@ -24,3 +24,4 @@ console.log("El estudiante "+nombre+" del grado "+grado+" tiene "+edad)
 
 
 
+
