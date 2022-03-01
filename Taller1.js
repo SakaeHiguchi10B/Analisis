@@ -9,7 +9,7 @@ var grado;//string
 console.log(grado);
 
 var edad;//int
-console.log(edad);//desde teclado 
+console.log(edad);//desde  teclado 
 
 var grado="10B"
 var nombre= "Sakae Higuchi"

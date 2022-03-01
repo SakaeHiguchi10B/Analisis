@@ -36,7 +36,7 @@ nombre="Sakae";
 console.log(nombre+" "+apellido)
 
 
-//desde otra variable 
+//desde otra  variable 
 var edad=16;
 var edadEstudiante=edad;
 //desde el teclado 
