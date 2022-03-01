@@ -65,6 +65,11 @@ var resultado;
 resultado= a-b;
 console.log(resultado);
 resultado=a-b;
+//multiplicacion 
+var producto;
+producto=a*b;
+console.log(producto);
+
 
 
 

@@ -12,7 +12,7 @@ console.log(grado);
 var edad;//int
 console.log(edad);
 //desde  teclado 
-var edad=prompt("ingrese su grado");
+var edad=prompt("ingrese su edad")
 
 var grado="10B"
 var nombre= "Sakae Higuchi"
