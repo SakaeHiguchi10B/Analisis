@@ -30,19 +30,20 @@ var base2=prompt("por favor ingrese el valor de base2");
 var h=prompt("por favor ingrese el valor de h");
 console.log("el area de un trapezoide es: " +(h * (base1 + base2)/ 2)) //calificar la formula
 
+
 var ancho;
 var largo;
 var profundo;
-ancho=parseInt(profundo("por favor ingresar el ancho"));
+ancho=parseInt(("por favor ingresar el ancho"));
 largo=parseInt(prompt("por favor ingresar el largo"));
 profundo=parseInt(prompt("por favor ingrese la profundidad"));
 console.log("la piscina se llena con ",ancho * largo * profundo,"litros");
 
 
-var totalApagar=prompt("por favor ingrese el valor de alto");
-var totalApagar=prompt("por favor ingrese el valor de ancho");
-var totalApagar=alto*ancho*22000;
-console.log(totalApagar);
+var alto=prompt("por favor ingrese el valor de alto");
+var ancho=prompt("por favor ingrese el valor de Ancho");
+var altoAncho = alto*ancho*22000;
+console.log(altoAncho);
 
 var cm;
 var resultado;
