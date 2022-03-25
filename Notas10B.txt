@@ -1,3 +1,5 @@
+ Sakae Higuchi
+ 
  Taller 1: Nota 3.8
     * linea 17, debia hacerse en la linea 8
     * linea 18, debia asignar un valor no inicializar variable
