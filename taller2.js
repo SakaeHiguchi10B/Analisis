@@ -37,7 +37,7 @@ var profundo;
 ancho=parseInt(("por favor ingresar el ancho"));
 largo=parseInt(prompt("por favor ingresar el largo"));
 profundo=parseInt(prompt("por favor ingrese la profundidad"));
-console.log("la piscina se llena con ",ancho * largo * profundo,"litros");
+console.log("la piscina se llena con ",(ancho * largo * profundo),"litros");
 
 
 var alto=prompt("por favor ingrese el valor de alto");
@@ -51,7 +51,7 @@ cm = parseInt(prompt("Favor ingresar la longitud de centimetros que quieres conv
 resultado = cm*(1/100)*(1/1000);
 console.log("Los Centimetros han sido convertidos son " + resultado + "Km");
 
-var dl;
+var dl; 
 var resultado2;
 dl = parseInt(prompt("Favor ingresar los decilitros que quieres convertir a litro"));
 resultado2 = dl*(0.1/1.0);

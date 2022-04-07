@@ -1,0 +1,10 @@
+Sofia Torres y Sakae Higuchi 10b
+
+Nuestro proyecto se basa en brindar información para los jóvenes aspirantes sobre las universidades en Colombia, carreras, cómo también conlleva a un test qué los guíe a su vocación más acertada.
+
+-¿Cual es la problematica?
+La falta de información por parte de los jovenes al momento de escoger la carrera que marcara un antes 
+y despúes en sus vidas ya que no saben de que constara su carrera o los beneficios que puede brindar la universidad a la que se quieren postular.
+
+¿Como se solucionaria?
+Se creará un Sitio Web en el cuál se brindará información sobre las Universidades en Colombia y las carreras disponibles qué tiene cada una de estás Universidades, cómo también se de el promedio de costo de cada una de estás carreras por departamento.
