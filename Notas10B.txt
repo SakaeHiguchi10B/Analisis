@@ -1,1 +1,13 @@
- 
+ Taller 1: Nota 3.8
+    * linea 17, debia hacerse en la linea 8
+    * linea 18, debia asignar un valor no inicializar variable
+    * lineas 7, 9, 13, 19, 22, 23 no son necesarias
+
+Taller 2: Nota 3.2
+    * En general, los mensajes son poco claros al momento de mostrar los resultados
+    * linea 10, la variable altura no ha sido definida aún.
+    * linea 25, el radio se debe elevar al cubo radio**3
+    * linea 37 no tiene la palabra prompt
+    * linea 40, el mensaje arroja error
+    * linea 44, está creando nuevamente una variable llamada ancho
+    * los valores del punto 7 y en general, no debían limitarse a ser enteros
