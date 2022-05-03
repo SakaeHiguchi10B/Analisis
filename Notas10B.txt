@@ -13,3 +13,7 @@ Taller 2: Nota 3.2
     * linea 40, el mensaje arroja error
     * linea 44, está creando nuevamente una variable llamada ancho
     * los valores del punto 7 y en general, no debían limitarse a ser enteros
+
+*********************************** segundo periodo
+
+Enlace examen: https://acortar.link/wzqjho
